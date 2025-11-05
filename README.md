@@ -5,7 +5,7 @@ Sebuah proyek analisis data sederhana untuk mengelompokkan (clustering) destinas
 ## 📌 Latar Belakang
 
 Bali memiliki ratusan destinasi wisata. Proyek ini bertujuan untuk mengidentifikasi segmen-segmen berbeda dari tempat wisata tersebut. Dengan memahami pengelompokan ini, kita dapat memperoleh wawasan seperti:
-* Destinasi mana yang merupakan "permata tersembunyi" (rating tinggi, tapi belum terlalu populer)?
+* Destinasi mana yang merupakan "Hidden Gem" (rating tinggi, tapi belum terlalu populer)?
 * Destinasi mana yang paling populer dan menjadi ikon?
 * Destinasi mana yang mungkin memerlukan peningkatan layanan (rating/popularitas rendah)?
 
