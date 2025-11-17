@@ -11,7 +11,7 @@ Bali memiliki ratusan destinasi wisata. Proyek ini bertujuan untuk mengidentifik
 
 ## 🗂️ Dataset
 
-* **Sumber Data:** `Bali2022.csv`
+* **Sumber Data:** [Bali Popular Destination for Tourist 2022.csv](https://www.kaggle.com/datasets/fuarresvij/bali-popular-destination-for-tourist-2022)  
 * **Jumlah Entri:** 34 Destinasi Wisata
 * **Fitur Utama yang Digunakan:**
     * `Google Maps Rating`: Rating rata-rata destinasi (numerik).
