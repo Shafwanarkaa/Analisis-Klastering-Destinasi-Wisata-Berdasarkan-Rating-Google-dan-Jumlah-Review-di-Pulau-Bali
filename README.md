@@ -50,9 +50,8 @@ Ke-34 destinasi wisata berhasil dikelompokkan ke dalam 3 segmen utama:
 ### 📈 Visualisasi Hasil Klaster
 
 Grafik di bawah ini memetakan setiap destinasi berdasarkan Rating (sumbu x) dan Jumlah Review (sumbu y).
+<img width="1168" height="811" alt="image" src="https://github.com/user-attachments/assets/f52a2fc6-3279-40af-91ca-91526d7fda54" />
 
-*(Anda dapat mengambil screenshot dari output notebook dan menambahkannya di sini)*
-`![Visualisasi Klaster](gambar/hasil-klastering.png)`
 
 ## 🛠️ Teknologi & Library
 
